@@ -1,1 +1,1 @@
-password= "mjthcvxgdiadkgcd"
+password= "write your own encrypted password"
